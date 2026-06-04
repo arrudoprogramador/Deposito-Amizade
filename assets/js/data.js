@@ -1,4 +1,4 @@
-const NUMERO_WA = '55119999999';
+const NUMERO_WA = '5511948988224';
 
 const CATEGORIAS = [
   { slug: 'todos',               label: 'Todos' },
