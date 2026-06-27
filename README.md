@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-Sistema web responsivo para otimização de processo onde vendedores perdiam tempo ao responder clientes sobre estoque de produtos.
+Sistema web responsivo para otimização de processos de venda.
 
 
 O projeto foi construído aplicando conceitos de Engenharia de Software, incluindo levantamento de requisitos, documentação de casos de uso e arquitetura escalável.
